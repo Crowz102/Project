@@ -1,0 +1,46 @@
+#first-heading {
+   color: red;
+   font-size: 30px; 
+   font-family: Shizuru;
+   text-align: center;
+}
+
+#second-heading {
+    color: yellow;
+    font-family: Source Code Pro;
+    text-align: center;
+}
+#paragraph-1{
+    font-size: 20px;
+    text-align: justify;
+    text-align: center;
+}
+
+
+#list-1{
+    font-size: 20px;
+}
+
+#pic-1{
+    width: 150px;
+}
+
+#paragraph-2{
+    color: blue;
+    font-size: 30px;
+    font-family: Shizuru;
+    text-align: justify;
+    text-align: center;
+}
+
+#voz{
+    position: absolute;
+    right: 10px;
+    top: 900px;
+}
+
+.background-color{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
